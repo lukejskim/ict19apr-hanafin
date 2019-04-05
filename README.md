@@ -4,14 +4,14 @@
 <div align='right'><font size=2 color='gray'>Python For BigData @ <font color='blue'><a href='https://www.facebook.com/jskim.kr'>FB / jskim.kr</a></font>, [김진수](bigpycraft@gmail.com)</font></div>
 <hr>
 
+<img src="./images/img_front_readme.png">
+
 ## IT Competency Improvement Training for Recruits in Hana Finance Group
 - Python Programming Basics
 - Data Processing and Analysis
 - Data Crawling and Modeling
 
 <hr>
-
-<img src="./images/img_front_readme.png">
 
 ## Notice 
 * [교육자료] : https://github.com/bigpycraft/ict19apr-hanafin
