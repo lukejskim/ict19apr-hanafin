@@ -30,7 +30,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://www.python.org/download/">
-            <img src="./images/logo_python3.png" width="120" />
+            <img src="./images/icon_python3.png" width="120" />
             </a>
         </td>
         <td width="800">
@@ -59,7 +59,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://www.jetbrains.com/pycharm/download/">
-            <img src="./images/logo_pycharm.png" width="120" />
+            <img src="./images/icon_pycharm.png" width="120" />
             </a>
         </td>
         <td width="800">
@@ -91,7 +91,7 @@
     <tr align="left">
         <td width="200">
             <a href="https://www.anaconda.com/distribution/">
-            <img src="./images/logo_jupyter.jpg" width="120" />
+            <img src="./images/icon_jupyter.jpg" width="120" />
             </a>
         </td>
         <td width="800">
