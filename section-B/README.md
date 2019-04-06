@@ -43,6 +43,8 @@
 
 ### Data Visualization
 - 6-1. [MatplotLib.Pyplot                          ][pkg-61]
+- 6-1. [MatplotLib.Pyplot 1                        ][pkg-61-1]
+- 6-1. [MatplotLib.Pyplot 2                        ][pkg-61-2]
 - 6-2. [Basic Chart                                ][pkg-62]
 - 6-3. [Color & Style                              ][pkg-63]
 - 6-4. [Annotation                                 ][pkg-64]
@@ -60,7 +62,7 @@
 [pkg-24]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_109_Module_ver1.html                 "Go pkg-24"
 [pkg-25]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_110_DateTIme_ver1.html               "Go pkg-25"
 [pkg-31]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_104_Lambda_Internal_Functiion.html   "Go pkg-31"
-[pkg-32]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_111_MFR.html                         "Go pkg-32"
+[pkg-32]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_111_MFR_ver1.html                    "Go pkg-32"
 [pkg-41]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_220_NumPy.html                       "Go pkg-41"
 [pkg-42]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_222_NumPy.html                       "Go pkg-42"
 [pkg-43]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_422_JSON.html                        "Go pkg-43"
@@ -68,10 +70,13 @@
 [pkg-52]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_232_Pandas.html                      "Go pkg-52"
 [pkg-53]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PB_DA_423_RegEx.html                       "Go pkg-53"
 [pkg-61]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_210_Matplotlib.html                  "Go pkg-61"
+[pkg-61-1]:https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_210_Matplotlib_1.html                "Go pkg-61-1"
+[pkg-61-2]:https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_210_Matplotlib_1.html                "Go pkg-61-2"
 [pkg-62]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_211_Matplotlib_Basic_Chart.html      "Go pkg-62"
 [pkg-63]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_212_Matplotlib_Color_Style.html      "Go pkg-63"
 [pkg-64]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_213_Matplotlib_Annotation.html       "Go pkg-64"
 [pkg-65]:  https://htmlpreview.github.io/?https://github.com/lukejskim/ict19apr-hanafin/blob/master/section-B/html/PC_DA_214_Matplotlib_Seaborn.html          "Go pkg-65"
+
 
 
 <hr>
