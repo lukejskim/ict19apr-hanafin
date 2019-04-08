@@ -13,7 +13,7 @@
 
 <hr>
 
-## Python Programming Basics
+## Python Programming Basics !!!
 
 - [[강의자료]][pyt-00]  [소스코드]  - INTRO.과정소개             
 - [[강의자료]][pyt-01]  [소스코드]  - P01.파이썬소개             
